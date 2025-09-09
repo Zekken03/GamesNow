@@ -85,12 +85,5 @@ Si deseas contribuir a este proyecto:
 4. Sube los cambios a tu fork (`git push origin feature/nueva-funcion`).
 5. Abre un Pull Request.
 
-## Licencia
-
-[Especificar la licencia que utiliza tu proyecto]
-
-## Contacto
-
-[Tu nombre] - [Tu correo electrónico]
 
 Enlace del proyecto: https://github.com/Zekken03/Zekken03.github.io
